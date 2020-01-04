@@ -1,0 +1,2 @@
+NLP Seminar
+QuangVT & HieuTM
