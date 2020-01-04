@@ -1,2 +1,2 @@
 # NLP Seminar
-## QuangVT & HieuTM @FIMO
+## QuangVT & HieuTM @WeMap
